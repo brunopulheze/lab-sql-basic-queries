@@ -2,9 +2,9 @@ USE sakila;
 
 SHOW FULL TABLES;
 
--- SELECT * FROM actor;
--- SELECT * FROM film;
--- SELECT * FROM customer;
+SELECT * FROM actor;
+SELECT * FROM film;
+SELECT * FROM customer;
 
 - SELECT title FROM film;
 
